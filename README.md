@@ -5,8 +5,10 @@
 ## Coursework
 ### Netflix Dashboard
 - Used Tableau to create a dashboard showing total movies & TV shows by year, top 10 genres, total movies & TV by country, ratings in different genres
+
 ### Hollywood Movies Profitability
 - Used Tableau to create data visualization for showing worldwide collection, top 10 rated movies by genre
+
 ### Kentucky Dashboard - Big Foot Sightings
 - Used Excel to load dataset and perform data cleaning methods - removing duplicates, replacing blank cells with zeros, converting data types
 - Imported the cleaned data to Tableau for visualization and created a dashboard showing sightings of Big Foot by month and by county
