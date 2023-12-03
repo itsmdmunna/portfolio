@@ -5,7 +5,7 @@
 - Searched the data from Open Government Data Platform India and used in Tableau to create data visualisations showing total count, male count, female count, IDs issued State & UT wise, and also by Disability wise.
 
 ## Coursework
-### Netflix Dashboard
+### Netflix Dashboard (https://public.tableau.com/views/NetflixDashboard_17014279727730/Netflix?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 - Used Tableau to create a dashboard showing total movies & TV shows by year, top 10 genres, total movies & TV by country, ratings in different genres
 
 ### Hollywood Movies Profitability
