@@ -1,3 +1,5 @@
+# Data Analyst
+
 ## Self Project
 ### Number of Unique Disability ID issued
 - Searched the data from Open Government Data Platform India and used in Tableau to create data visualisations showing total count, male count, female count, IDs issued State & UT wise, and also by Disability wise.
